@@ -1,0 +1,13 @@
+Header
+
+Head
+(behind the scenes stuff)
+
+Body
+(everything else)
+3 Sections: Header, Main, Footer
+In Main: Article, Section
+
+Article
+
+! then tab will give you the basics
