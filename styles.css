@@ -1,0 +1,20 @@
+header{
+    color:black;
+    font-size: 50px;
+    font-family: Serif;
+    text-align: center;
+}
+
+body{
+    color:rgb(251, 251, 0);
+    font-family: Sans-Serif;
+    font-size:15px;
+    background-color:rgb(100, 210, 230);
+}
+
+footer{
+    color:black;
+    font-family:cursive;
+    font-size: 12px;
+    text-align: center;
+}
