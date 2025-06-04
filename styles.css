@@ -1,20 +1,39 @@
 header{
     color:black;
     font-size: 50px;
-    font-family: Serif;
+    font-family: cursive;
     text-align: center;
 }
 
 body{
-    color:rgb(251, 251, 0);
-    font-family: Sans-Serif;
-    font-size:15px;
-    background-color:rgb(100, 210, 230);
+    color:rgb(128, 128, 5);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100vw;
+    padding: 0 10vw;
+    margin: 0;
+    box-sizing: border-box;
+    background-color:rgb(119, 235, 255);
+}
+
+h3{
+    color:beige;
+    font-weight: 500;
+    font-size: 2.0rem;
+    text-transform: uppercase;
+    letter-spacing:2px;
+    background-color:rgb(0, 36, 197);
+    padding: 2vw 1vw;
 }
 
 footer{
-    color:black;
+    color:white;
     font-family:cursive;
     font-size: 12px;
     text-align: center;
+    box-sizing: border-box;
+    background:url('https://i.imgur.com/F05JAux.jpeg') fixed;
+}
+
+.extra-space-below{
+    margin-bottom: 30px;
 }

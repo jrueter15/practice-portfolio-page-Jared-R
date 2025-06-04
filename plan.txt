@@ -8,6 +8,14 @@ Body
 3 Sections: Header, Main, Footer
 In Main: Article, Section
 
-Article
+She has her footer outside her main
 
 ! then tab will give you the basics
+
+<ol> is numbered list then <li> for each llist item
+
+<tr> row <td> 
+
+class applies to multiple things
+
+using ."name" creates a class that you can add an attribute to specific aspects
